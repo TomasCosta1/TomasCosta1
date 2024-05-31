@@ -30,7 +30,7 @@
 [<img align="left" alt="Git" width="26px" src="./img/git.svg"/>][website]
 [<img align="left" alt="JAVA" width="26px" src="./img/java.svg"/>][website]
 
-[website]: https://tomascosta.tech
+[website]: https://tomascosta.com
 [linkedin]: https://www.linkedin.com/in/TomasCosta1/
 [instagram]: https://instagram.com/toto_costa123
 <br>
