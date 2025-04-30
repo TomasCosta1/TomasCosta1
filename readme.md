@@ -1,9 +1,9 @@
 # Hola, soy Tomás Costa! 👋
 
 
+- 💻 Software Developer en Mercado Libre 
 - 📚 Estudiante de Ingeniería en Sistemas en Universidad Tecnológica Nacional
-- 🧑‍💻 Estudiante en Certified Tech Developer en Digital House from Globant & MELI
-- 💻 Actualmente trabajo como Web Developer de modo freelance
+- 🧑‍💻 Estudié en Certified Tech Developer en Digital House from Globant & MELI
 - 💡 Estoy en constante aprendizaje para estar al día de las nuevas tendencias en desarrollo
 
 ### Contacto
